@@ -27,3 +27,6 @@ to delete a file from /tmp/my_first_directory
 
 ### [9-firstdirdeletion]<9-firstdirdeletion]
 to delete a dir from /tmp
+
+### [10-back]<10-back]
+to change working dir to prev dir
