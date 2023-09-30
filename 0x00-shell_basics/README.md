@@ -30,3 +30,6 @@ to delete a dir from /tmp
 
 ### [10-back]<10-back]
 to change working dir to prev dir
+
+### [11-lists]<11-lists]
+to display all type of files in the current with previous and /boot directory
