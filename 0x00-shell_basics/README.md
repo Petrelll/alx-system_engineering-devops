@@ -15,3 +15,6 @@ to display cwd contents inluding hidden file in long format
 
 ### [5-listfilesdigitonly]<5-listfilesdigitonly]
 to display cwd contents inluding hidden file with user and group IDs in long format
+
+### [6-firstdirectory]<6-firstdirectory]
+to create a dir in /tmp dir
