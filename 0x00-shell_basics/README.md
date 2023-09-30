@@ -39,3 +39,6 @@ to display the type of a file at /tmp dir
 
 ### [13-symbolic_link]<13-symbolic_link]
 to create a symlink
+
+### [14-copy_html]<14-copy_html]
+to copy HTML files that didn't exist or were newer versions in the parent dir to working dir
