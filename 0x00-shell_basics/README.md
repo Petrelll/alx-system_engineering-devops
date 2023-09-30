@@ -21,3 +21,6 @@ to create a dir in /tmp dir
 
 ### [7-movethatfile}<7-movethatfile]
 to move a file from parent dir to sub dir
+
+### [8-firstdelete]<8-firstdelete]
+to delete a file from /tmp/my_first_directory
