@@ -18,3 +18,6 @@ to display cwd contents inluding hidden file with user and group IDs in long for
 
 ### [6-firstdirectory]<6-firstdirectory]
 to create a dir in /tmp dir
+
+### [7-movethatfile}<7-movethatfile]
+to move a file from parent dir to sub dir
