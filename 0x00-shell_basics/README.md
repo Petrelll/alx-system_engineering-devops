@@ -24,3 +24,6 @@ to move a file from parent dir to sub dir
 
 ### [8-firstdelete]<8-firstdelete]
 to delete a file from /tmp/my_first_directory
+
+### [9-firstdirdeletion]<9-firstdirdeletion]
+to delete a dir from /tmp
