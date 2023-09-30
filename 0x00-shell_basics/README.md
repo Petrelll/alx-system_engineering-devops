@@ -12,3 +12,6 @@ to display cwd contents in long format
 
 ### [4-listmorefiles]<4-listmorefiles]
 to display cwd contents inluding hidden file in long format
+
+### [5-listfilesdigitonly]<5-listfilesdigitonly]
+to display cwd contents inluding hidden file with user and group IDs in long format
