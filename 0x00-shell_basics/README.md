@@ -36,3 +36,6 @@ to display all type of files in the current with previous and /boot directory
 
 ### [12-file_type]<12-file_type]
 to display the type of a file at /tmp dir
+
+### [13-symbolic_link]<13-symbolic_link]
+to create a symlink
