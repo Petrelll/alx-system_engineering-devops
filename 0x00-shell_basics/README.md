@@ -9,3 +9,6 @@ to navigate to home directory
 
 ### [3-listfiles]<3-listfiles]
 to display cwd contents in long format
+
+### [4-listmorefiles]<4-listmorefiles]
+to display cwd contents inluding hidden file in long format
