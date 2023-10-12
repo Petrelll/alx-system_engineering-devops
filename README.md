@@ -1,2 +1,2 @@
-shell basicis
-shell permissions
+#Shell basics
+#Shell permissions
