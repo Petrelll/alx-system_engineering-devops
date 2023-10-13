@@ -27,3 +27,6 @@ to set no permissions of the file hello to the owner and group then all the perm
 
 ### [9-John_Doe]<9-John_Doe]
 to set permissions to the file hello
+
+### [10-mirror_permissions]<10-mirror_permissions]
+to set the mode of the file hello to the same as olleh
