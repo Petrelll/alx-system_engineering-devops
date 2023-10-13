@@ -24,3 +24,6 @@ to add execution permission to the owner, the group owner and the other users, t
 
 ### [8-James_Bond]<8-James_Bond]
 to set no permissions of the file hello to the owner and group then all the permissions to other users
+
+### [9-John_Doe]<9-John_Doe]
+to set permissions to the file hello
