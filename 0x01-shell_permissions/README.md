@@ -21,3 +21,6 @@ to print a script that adds execute permission to the owner and the group owner,
 
 ### [7-everybody]<7-everybody]
 to add execution permission to the owner, the group owner and the other users, to the file hello
+
+### [8-James_Bond]<8-James_Bond]
+to set no permissions of the file hello to the owner and group then all the permissions to other users
