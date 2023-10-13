@@ -36,3 +36,6 @@ to add execute permission to all subdirectories of the current directory for the
 
 ### [12-directory_permissions]<12-directory_permissions]
 to create a directory called my_dir with permissions 751 in the working directory.
+
+### [13-change_group]<13-change_group]
+to change the group owner to school for the file hello
