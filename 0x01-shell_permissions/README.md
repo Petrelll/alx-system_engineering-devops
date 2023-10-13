@@ -30,3 +30,6 @@ to set permissions to the file hello
 
 ### [10-mirror_permissions]<10-mirror_permissions]
 to set the mode of the file hello to the same as olleh
+
+### [11-directories_permissions]<11-directories_permissions]
+to add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users apart from regular files
