@@ -8,4 +8,6 @@
 
 #A script that displays the last 10 lines of /etc/passwd
 
-#A script the first 10 lines of /etc/passwd
+#A script that first 10 lines of /etc/passwd
+
+#A script that displays the third line of the file iacta
