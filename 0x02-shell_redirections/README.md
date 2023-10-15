@@ -35,3 +35,5 @@
 #A script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin” -17
 
 #A script that displays all lines of the file /etc/ssh/sshd_config starting with a letter -18
+
+#A script that replaces all characters A and c from input to Z and e respectively -19
