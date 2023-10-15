@@ -37,3 +37,5 @@
 #A script that displays all lines of the file /etc/ssh/sshd_config starting with a letter -18
 
 #A script that removes all letters c and C from input -20
+
+#A script that reverse its input -21
