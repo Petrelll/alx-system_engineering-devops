@@ -30,4 +30,6 @@
 
 #A script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd -15
 
-#A script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+#A script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd -16
+
+#A script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin” -17
